@@ -1,0 +1,46 @@
+
+
+.card{
+    width: 400px;
+    position: relative;
+    box-shadow: 2px 2px 2px 1px; 
+     background-color: white;
+     border-radius: 20px;
+     margin-left: 170px;
+     margin-top: 10%;
+     
+    }
+    .btn{
+        margin-left: 35%;
+        margin-bottom: 25px;
+    } */
+ .form-control{
+    padding: 10px;
+}
+form{
+     
+    
+    
+    
+     width: 400px;
+  height: 500px;
+  border-radius: 10px;
+   /* top: 50px;  */
+   border-radius: 20px;
+  
+  box-shadow: 2px 2px 2px 1px;
+  margin-right: 10%;
+  margin-top: 5%;
+  padding: 20px;
+  padding-top:3%;
+
+} 
+.aaa{
+    position: relative;
+    top: 30px;
+    margin-left: 30%;
+} 
+button{
+    margin-left: 35%;
+}
+

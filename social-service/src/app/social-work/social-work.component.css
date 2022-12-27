@@ -1,0 +1,40 @@
+.bg{
+    background-image: url('../../assets/5.jpg');
+    width: 100vw;
+    height: 100vh; 
+    background-size:cover;
+    background-position: center;
+    }
+   
+   
+  
+   a{
+    color: aliceblue;
+    font-size: 20px;
+   }
+   a:hover{
+    color:blue;
+    text-decoration: underline;
+   }
+   h1{
+    color: aliceblue;
+    padding-right: 40px;
+    margin-top: 20%;
+    font-family: serif;
+   }
+   
+    @media screen and (max-width: 700px) {
+      h1 {
+        font-size: 25px;
+      }
+   }
+   h6{
+    font-size: px;
+     color: white;
+     font-family: serif;
+     }
+    @media screen and (max-width: 700px) {
+        h6 {
+          font-size: 9px;
+        }
+      }
